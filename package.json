@@ -1,0 +1,17 @@
+{
+  "name": "yzhalp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "test:scroll": "node tools/scroll-test.mjs",
+    "lint": "node tools/check-qml.mjs",
+    "smoke": "node tools/smoke.mjs",
+    "integration": "node tools/integration-check.mjs",
+    "check": "npm test && npm run lint && npm run test:scroll && npm run smoke",
+    "install-local": "node tools/install.mjs",
+    "validate-pack": "node tools/validate-pack.mjs"
+  }
+}

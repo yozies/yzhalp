@@ -1,0 +1,9 @@
+ContextTracker 1.0 ContextTracker.qml
+PackIndex 1.0 PackIndex.qml
+SettingsStore 1.0 SettingsStore.qml
+HalpButton 1.0 HalpButton.qml
+HalpView 1.0 HalpView.qml
+SettingsPane 1.0 SettingsPane.qml
+ImageSheet 1.0 ImageSheet.qml
+PdfSheet 1.0 PdfSheet.qml
+NativeWheelArea 1.0 NativeWheelArea.qml

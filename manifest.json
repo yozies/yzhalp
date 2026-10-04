@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "yzjm.halp",
+  "name": "HALP",
+  "version": "0.1.0",
+  "description": "Your hand-designed reference images and PDFs, selected by application and window title.",
+  "kinds": ["panel"],
+  "keepLoaded": true,
+  "entryPoints": { "panel": "HalpPlugin.qml" }
+}

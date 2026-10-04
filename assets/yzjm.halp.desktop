@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=HALP
+Comment=Context-aware image and PDF references
+Exec=omarchy-shell shell summon yzjm.halp "{}"
+Icon=help-browser
+Terminal=false
+Categories=Utility;Viewer;
+Keywords=cheatsheet;reference;help;PDF;

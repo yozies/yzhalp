@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="1120" viewBox="0 0 780 1120">
+  <rect width="780" height="1120" fill="#11191e"/>
+  <path d="M40 40h700v1040H40z" fill="none" stroke="#89d6c2" stroke-width="2"/>
+  <g font-family="monospace" fill="#e5eded">
+    <text x="72" y="128" font-size="68" font-weight="bold">HALP</text>
+    <text x="74" y="171" font-size="19" fill="#89d6c2">YOUR ARTWORK. THE RIGHT MOMENT.</text>
+    <text x="74" y="243" font-size="20">Keep your own beautifully made references.</text>
+    <text x="74" y="277" font-size="20">A filename tells HALP when to show them.</text>
+    <g font-size="23" fill="#89d6c2">
+      <text x="74" y="359">01 / DROP IN YOUR REFERENCES</text>
+      <text x="74" y="529">02 / NAME THEIR CONTEXT</text>
+      <text x="74" y="804">03 / MAKE YOURSELF AT HOME</text>
+    </g>
+    <g font-size="18">
+      <text x="74" y="400">~/.config/halp/packs/personal/</text>
+      <text x="74" y="436">PNG · JPEG · WebP · SVG · PDF</text>
+      <text x="74" y="472">Images keep their design. PDFs keep their pages.</text>
+      <text x="74" y="573">firefox--Firefox.png</text>
+      <text x="74" y="607" fill="#a8b8bd">Exact application → a Firefox reference</text>
+      <text x="74" y="652">@terminal~NVIM--Neovim.pdf</text>
+      <text x="74" y="686" fill="#a8b8bd">Terminal + title containing NVIM → Neovim</text>
+      <text x="74" y="731">@any--Always available.svg</text>
+      <text x="74" y="848">[ / ]       Previous / next reference</text>
+      <text x="74" y="886">+ / − / 0   Zoom in / out / fit width</text>
+      <text x="74" y="924">j / k       Scroll down / up</text>
+      <text x="74" y="962">g g / G     Top / bottom</text>
+      <text x="74" y="1000">Ctrl W      Hide HALP</text>
+    </g>
+    <text x="74" y="1057" font-size="14" fill="#a8b8bd">This is an ordinary SVG reference. Replace it with your own.</text>
+  </g>
+</svg>
