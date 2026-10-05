@@ -6,6 +6,8 @@ HALP is an Omarchy 4 Quattro plugin written in QML and JavaScript. Drop your own
 PNG, JPEG, WebP, SVG or PDF references into local pack folders. The filenames say
 when to show them; the artwork supplies the design.
 
+Maintainers and coding agents: [technical specification](docs/technical-specification.md).
+
 ## Install on Omarchy
 
 Requires Omarchy Shell, Quickshell 0.3.1+, Node.js 22+, Qt 6 SVG/image plugins, and
